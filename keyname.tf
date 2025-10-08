@@ -1,4 +1,4 @@
 # Defining Key Name for connection
 variable "keyname" {
-  default     = "test.pem" 
+  default     = "keypair.pem" 
 }
